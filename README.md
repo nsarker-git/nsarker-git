@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @nsarker-git
-- 👀 I’m interested in Data Science, Machine Learning techniques, AI
+- 👀 I’m interested inIoT, Cloud System, Data Science, Machine Learning techniques, AI
 - 🌱 I’m currently learning end-to-end machine learning project from coding to deployment in cloud
 - 📫 How to reach me: nandini.mit2@gmail.com
 
